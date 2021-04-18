@@ -66,8 +66,8 @@ body::after
 {
     padding:20px;
     text-align: center;
-    transform: translate(100px);
-    opacity: 0;
+    /*transform: translate(100px);
+    opacity: 0;*/
     transition: 0.5s;
 }
 .container .card:hover .content
